@@ -1,0 +1,42 @@
+img {
+    width: 50%;
+}
+a {
+
+}
+.thumb {
+    width: 150px;
+    height: 100px;
+    margin-right: 30px;
+}
+
+.imgSt {
+    width: 50%;
+    margin: 0 auto;
+}
+img {
+    width: 100%;
+}
+
+/* Table styles */
+table {
+    border: 2px #124d8a solid;
+    width: 50%;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+table tr th {
+    background-color: #124d8a;
+    color: #fff;
+    padding: 7px;
+}
+
+table tr td {
+    border: 2px #c3c3ed solid;
+    padding: 10px;
+}
+
+.right {
+    text-align: right;
+}
